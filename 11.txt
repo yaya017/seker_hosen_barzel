@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="he">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>שאלון תפיסות עצמיות ותפקוד אישי ומקצועי</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            direction: rtl;
+            background-color: #f9f9f9;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #0066cc;
+            text-align: center;
+        }
+        p {
+            line-height: 1.6;
+        }
+        .contact {
+            margin-top: 20px;
+        }
+        .btn {
+            display: block;
+            width: 100%;
+            padding: 10px;
+            background-color: #0066cc;
+            color: #fff;
+            text-align: center;
+            text-decoration: none;
+            border-radius: 5px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>שאלון תפיסות עצמיות ותפקוד אישי ומקצועי</h1>
+        <p>שלום!</p>
+        <p>נבחרת להשתתף במחקר קצר העוסק בקשר שבין מצב המלחמה הנוכחי לבין תפיסות עצמיות ותפקוד אישי ומקצועי מאז השביעי באוקטובר.</p>
+        <p>המחקר כולל סימון תשובות לשאלות סגורות, וייארך 5-10 דקות בלבד.</p>
+        <p>איסוף המידע לצורכי המחקר יתבצע באופן סטטיסטי בלבד ותוך שמירה על חיסיון מוחלט של זהותך.</p>
+        <p>מחקר זה אושר על ידי ועדת האתיקה. ניתן לקבל מידע נוסף על תכנית המחקר, ו/או ליצור עמי קשר במייל: <a href="mailto:hosenbarzel@gmail.com">hosenbarzel@gmail.com</a>. שם חוקר - ד"ר יאיר נעם.</p>
+        <p>ההשתתפות במחקר היא בהתנדבות, וזכותך להפסיק את השתתפותך בכל שלב.</p>
+        <p>לחיצה על "שליחה" בתום ביצוע כל שלבי השאלון מהווה אישור להסכמתך להשתתף במחקר זה.</p>
+        <a href="#" class="btn">שליחה</a>
+    </div>
+</body>
+</html>
